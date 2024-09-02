@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\appwordx\\appwordx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|solutionrelative:appwordx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\appwordx\\appwordx\\views\\home\\editardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|solutionrelative:appwordx\\views\\home\\editardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\appwordx\\appwordx\\views\\home\\criardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|solutionrelative:appwordx\\views\\home\\criardocumento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\appwordx\\appwordx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|solutionrelative:appwordx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|c:\\users\\lucas\\documents\\00 - cursos\\projetos .net\\appwordx\\appwordx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DFE942-7F14-482B-9598-FC776A8EEB3D}|AppWordX\\AppWordX.csproj|solutionrelative:appwordx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CriarDocumento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Home\\CriarDocumento.cshtml",
+              "RelativeDocumentMoniker": "AppWordX\\Views\\Home\\CriarDocumento.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Home\\CriarDocumento.cshtml",
+              "RelativeToolTip": "AppWordX\\Views\\Home\\CriarDocumento.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:06:59.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppWordX\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppWordX\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T02:05:28.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditarDocumento.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Home\\EditarDocumento.cshtml",
+              "RelativeDocumentMoniker": "AppWordX\\Views\\Home\\EditarDocumento.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Home\\EditarDocumento.cshtml",
+              "RelativeToolTip": "AppWordX\\Views\\Home\\EditarDocumento.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T01:47:13.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWordX\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppWordX\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T01:40:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppWordX\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\00 - Cursos\\Projetos .Net\\AppWordX\\AppWordX\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppWordX\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T00:59:30.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
